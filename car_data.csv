@@ -1,0 +1,31 @@
+fabricante,modelo,ano,potencia,cavalos_rodas,rodas_motrizes,consumo_estrada,preco
+Chevrolet,Camaro,2020,455,8,RWD,27,30000
+Ford,Mustang,2020,450,8,RWD,25,35000
+Dodge,Challenger,2020,485,8,RWD,23,32000
+BMW,M3,2020,473,6,RWD,26,70000
+Audi,RS5,2020,444,6,AWD,27,75000
+Mercedes-Benz,C63 AMG,2020,469,8,RWD,24,68000
+Porsche,911 Carrera,2020,379,6,RWD,30,97000
+Lexus,RC F,2020,472,8,RWD,24,65000
+Nissan,GT-R,2020,565,6,AWD,22,113000
+Jaguar,F-Type,2020,575,8,AWD,23,90000
+Alfa Romeo,Giulia Quadrifoglio,2020,505,6,RWD,24,74000
+Cadillac,CTS-V,2020,640,8,RWD,21,86000
+Maserati,Ghibli,2020,424,6,RWD,24,70000
+Tesla,Model S,2020,1020,0,AWD,112,95000
+Ferrari,Portofino,2020,591,8,RWD,22,215000
+Lamborghini,Huracan,2020,602,10,AWD,19,261274
+Aston Martin,Vantage,2020,503,8,RWD,24,152995
+Bentley,Continental GT,2020,626,12,AWD,20,202500
+McLaren,720S,2020,710,8,RWD,22,299000
+Bugatti,Chiron,2020,1500,16,AWD,14,2998000
+Volkswagen,Gol,2020,104,4,FWD,30,50000
+Fiat,Palio,2020,88,4,FWD,30,45000
+Hyundai,HB20,2020,130,4,FWD,28,55000
+Toyota,Corolla,2020,168,4,FWD,36,80000
+Honda,Civic,2020,174,4,FWD,35,85000
+Renault,Sandero,2020,150,4,FWD,28,60000
+Chevrolet,Onix,2020,116,4,FWD,32,52000
+Ford,Ka,2020,128,4,FWD,31,49000
+Jeep,Compass,2020,180,4,AWD,25,125000
+Chevrolet,Tracker,2020,153,4,AWD,26,115000

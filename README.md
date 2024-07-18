@@ -74,7 +74,7 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICEN
 
 ---
 
-Feito com ❤️ por [Seu Nome](https://github.com/seu-usuario).
+Feito com ❤️ por [Danilo de Sousa](https://github.com/seu-usuario).
 
 ---
 

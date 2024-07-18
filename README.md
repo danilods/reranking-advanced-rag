@@ -1,4 +1,4 @@
-# 🚗🔍 Busca Semântica e Re-Ranking de Carros com ChromaDB
+# 🚗🔍 Utilizando a técnica "Re-Ranking" (R.A.G avançado) para reduzir alucinações 
 
 Este repositório demonstra como usar ChromaDB para realizar buscas semânticas e re-ranking de descrições de carros utilizando embeddings gerados por modelos de linguagem.
 
